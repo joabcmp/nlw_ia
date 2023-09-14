@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+
   box-sizing: border-box;
   background-color: #121214;
   color: #fff;
@@ -10,8 +11,8 @@ body {
 
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 body,
